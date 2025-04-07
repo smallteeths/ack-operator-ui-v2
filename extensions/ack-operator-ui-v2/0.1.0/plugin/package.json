@@ -1,0 +1,19 @@
+{
+  "name": "ack-operator-ui-v2",
+  "description": "ack-operator-ui-v2 plugin",
+  "version": "0.1.0",
+  "private": false,
+  "rancher": true,
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.0"
+  },
+  "files": [
+    "**/*"
+  ],
+  "main": "ack-operator-ui-v2-0.1.0.umd.min.js"
+}

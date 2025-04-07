@@ -1,0 +1,9 @@
+plugin/ack-operator-ui-v2-0.1.0.umd.min.dashboard_shell_node_modules_file-saver_dist_FileSaver_min_js.js
+plugin/ack-operator-ui-v2-0.1.0.umd.min.js
+plugin/ack-operator-ui-v2-0.1.0.umd.min.l10n_en-us_yaml.js
+plugin/ack-operator-ui-v2-0.1.0.umd.min.l10n_zh-hans_yaml.js
+plugin/ack-operator-ui-v2-0.1.0.umd.min.l10n_zh-hant-tw_yaml.js
+plugin/ack-operator-ui-v2-0.1.0.umd.min.l10n_zh-hant_yaml.js
+plugin/img/generic-catalog.1842a50e.svg
+plugin/img/icon.b1fb0176.svg
+plugin/package.json
